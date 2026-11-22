@@ -1,0 +1,3 @@
+{"type":"room_plan","name":"BEDROOM","width_ft":12,"length_ft":16,"wall_thickness_in":6,
+ "doors":[{"wall":"south","offset_ft":2,"width_ft":3,"swing":"in","hinge":"start"}],
+ "windows":[{"wall":"east","offset_ft":6,"width_ft":4}],"title":"BEDROOM PLAN"}
